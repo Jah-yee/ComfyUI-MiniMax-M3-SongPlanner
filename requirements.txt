@@ -1,0 +1,4 @@
+# No pip dependencies required.
+# Uses ComfyUI's native CLIP text-generation stack.
+# Requires a generative VLM checkpoint in models/text_encoders/
+# (Qwen3-VL or Gemma-3-Vision instruct repack recommended).
